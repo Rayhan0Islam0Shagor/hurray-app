@@ -1,0 +1,40 @@
+.cart h2{
+    border-radius: 10px;
+    width: 100%;
+    padding: 15px;
+}
+.cart h5{
+    background-color: #1a1a2e;
+    padding: 10px;
+    border-radius: 10px;
+    color: white;
+    width: 100%;
+}
+.cart p{
+    background-color: #01a9b4;
+    width: 100%;
+    color: #07031a;
+    border-radius: 10px;
+}
+.cart small{
+    font-weight: bold;
+    overflow: hidden;
+}
+.cart h6{
+    font-weight: bold;
+    width: 100%;
+    color: #07031a;
+    padding: 10px;
+    border-radius: 10px;
+}
+.cart h6:hover{
+    cursor: pointer;
+    border: 1px solid green;
+}
+.taka{
+    border-radius: 5px;
+    padding: 2px;
+}
+.change{
+    overflow: hidden;
+}

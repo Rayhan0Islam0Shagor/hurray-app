@@ -1,0 +1,14 @@
+.img{
+    height: 150px;
+    width: 170px;
+    border-radius: 10px;
+}
+.product{
+    border-radius: 10px;
+    background-color: #40a8c4;
+}
+.product:hover{
+    box-shadow: 15px 20px 30px lightsalmon;
+    cursor: pointer;
+    border: 1px solid #810000;
+}
